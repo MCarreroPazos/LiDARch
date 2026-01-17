@@ -1,0 +1,47 @@
+MIT License
+
+Copyright (c) 2026 M. Carrero Pazos - USC/CSIC/UDC/UVIGO
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+THIRD-PARTY SOFTWARE NOTICES:
+
+This software uses the following third-party tools and libraries:
+
+1. QGIS (GNU General Public License v2.0)
+   https://qgis.org
+
+2. SAGA GIS (GNU General Public License v2.0)
+   http://www.saga-gis.org
+
+3. LAStools (Proprietary - Demo mode used)
+   https://rapidlasso.de/lastools/
+   Note: LAStools demo mode has limitations. For production use, 
+   a commercial license is required.
+
+4. RVT - Relief Visualization Toolbox (Apache License 2.0)
+   https://github.com/EarthObservation/RVT
+
+5. CustomTkinter (MIT License)
+   https://github.com/TomSchimansky/CustomTkinter
+
+6. Pillow (HPND License)
+   https://python-pillow.org
