@@ -67,23 +67,9 @@ LiDARch automates a **6-step workflow** using industry-standard tools:
 4. Select your LiDAR data folder and LAStools path
 5. Click "START PROCESSING"
 
-### Option 2: Run from Source
-
-```bash
-# Clone repository
-git clone https://github.com/yourusername/LiDARch.git
-cd LiDARch
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run application
-python src/lidarch_main.py
-```
-
 ---
 
-## 📦 System Requirements
+## System Requirements
 
 - **Operating System:** Windows 10/11 (64-bit)
 - **RAM:** 8GB minimum, 16GB recommended
@@ -94,7 +80,7 @@ python src/lidarch_main.py
 
 ---
 
-## 🛠️ Building from Source
+## Building from Source
 
 To create the standalone executable:
 
@@ -111,7 +97,7 @@ The executable will be created in the `dist/` folder.
 
 ---
 
-## 📊 Output Files
+## Output Files
 
 After processing, LiDARch generates:
 
@@ -131,7 +117,7 @@ Proyecto_LiDARch_[timestamp]/
 
 ---
 
-## 🎓 Academic Context
+## Academic Context
 
 **Project Type:** Educational coursework project  
 **Institution:** MA in Archaeology and Sciences of Antiquity, USC/CSIC/UDC/UVIGO  
@@ -145,16 +131,10 @@ Proyecto_LiDARch_[timestamp]/
 
 ---
 
-## ⚠️ Important Notes
+## Important Notes
 
 ### Educational Use Only
 This tool was created for educational purposes to demonstrate workflow automation. It is **not** official software from any institution.
-
-### Third-Party Dependencies
-LiDARch is a **wrapper/orchestrator** that automates existing tools:
-- Does not replace or modify the underlying software
-- Requires proper installation of all dependencies
-- Subject to limitations of third-party tools
 
 ### LAStools Licensing
 - LAStools demo mode has limitations (point count, slight distortion)
@@ -163,7 +143,7 @@ LiDARch is a **wrapper/orchestrator** that automates existing tools:
 
 ---
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
@@ -171,7 +151,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! This is an open educational project.
 
@@ -183,17 +163,17 @@ Contributions are welcome! This is an open educational project.
 
 ---
 
-## 📧 Contact
+## Contact
 
 **Author:** M. Carrero Pazos  
 **Email:** miguel.carrero@usc.es  
-**Institution:** USC/CSIC/UDC/UVIGO
+**Institution:** USC/CISPAC
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
-This project integrates the following excellent open-source and commercial tools:
+This project integrates the following excellent tools:
 
 - [**QGIS Project**](https://qgis.org) - Open-source GIS platform
 - [**SAGA GIS**](http://www.saga-gis.org) - Terrain analysis tools
@@ -205,27 +185,26 @@ Special thanks to the developers and maintainers of these tools for making archa
 
 ---
 
-## 📚 Citation
+## Citation
 
 If you use this tool in your research or teaching, please cite:
 
 ```
 Carrero Pazos, M. (2026). LiDARch: Automated LiDAR Processing Tool for Archaeological Applications. 
-Educational project, MA in Archaeology and Sciences of Antiquity, USC/CSIC/UDC/UVIGO.
-GitHub: https://github.com/YOUR_USERNAME/LiDARch
+An educational scripting project. MA in Archaeology and Sciences of Antiquity, Geoespatial Technologies course.
+GitHub: https://github.com/MCarreroPazos/LiDARch
 ```
 
 ---
 
-## 🔍 Limitations
+## Limitations
 
 - **LAStools Demo Mode:** Point count limits and slight distortions in demo mode
 - **Windows Only:** Currently only supports Windows 10/11
 - **Manual Dependencies:** Requires manual installation of QGIS and LAStools
-- **No Parameter Customization:** Uses fixed parameters for RVT visualizations
-- **Educational Tool:** Not intended for production archaeological surveys
 
 ---
 
-**Disclaimer:** This software is provided "as is" for educational purposes. Always validate results with professional tools for actual archaeological work.
+**Disclaimer:** This software is provided "as is" for educational purposes. Always validate results for actual archaeological work.
+
 
