@@ -18,7 +18,7 @@
 
 ### 🔗 GitHub Repository
 
-- [**View on GitHub**](https://github.com/YOUR_USERNAME/LiDARch) - Source code and releases
+- [**View on GitHub**](https://github.com/MCarreroPazos/LiDARch) - Source code and releases
 
 </td>
 <td width="50%">
@@ -206,6 +206,7 @@ GitHub: https://github.com/MCarreroPazos/LiDARch
 ---
 
 **Disclaimer:** This software is provided "as is" for educational purposes. Always validate results for actual archaeological work.
+
 
 
 
