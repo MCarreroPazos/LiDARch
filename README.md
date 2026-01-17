@@ -34,7 +34,7 @@
 
 ---
 
-## 📋 Features
+## Features
 
 LiDARch automates a **6-step workflow** using industry-standard tools:
 
@@ -55,7 +55,7 @@ LiDARch automates a **6-step workflow** using industry-standard tools:
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Option 1: Use Pre-built Executable (Recommended)
 
@@ -228,3 +228,4 @@ GitHub: https://github.com/YOUR_USERNAME/LiDARch
 ---
 
 **Disclaimer:** This software is provided "as is" for educational purposes. Always validate results with professional tools for actual archaeological work.
+
