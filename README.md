@@ -188,6 +188,7 @@ If you use this tool in your research or teaching, please cite:
 Carrero Pazos, M. (2026). LiDARch: Automated LiDAR Processing Tool for Archaeological Applications. 
 An educational scripting project. MA in Archaeology and Sciences of Antiquity, Geoespatial Technologies course.
 GitHub: https://github.com/MCarreroPazos/LiDARch
+Zenodo: https://doi.org/10.5281/zenodo.18302088
 ```
 
 ---
@@ -201,6 +202,7 @@ GitHub: https://github.com/MCarreroPazos/LiDARch
 ---
 
 **Disclaimer:** This software is provided "as is" for educational purposes. LLMs have been used to create and curate this scripting tool.
+
 
 
 
