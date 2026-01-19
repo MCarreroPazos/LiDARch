@@ -3,7 +3,7 @@ echo ========================================
 echo PASO 6: Visualizaciones RVT y Hillshade
 echo ========================================
 echo.
-echo Generando visualizaciones optimizadas para ARQUEOLOGIA...
+echo Generando visualizaciones...
 echo.
 
 REM Ejecutar script RVT mejorado (incluye Hillshade con GDAL)
@@ -13,3 +13,4 @@ echo.
 echo Proceso completado con exito!
 echo Visualizaciones disponibles en la carpeta RVT_visualizations
 pause
+
