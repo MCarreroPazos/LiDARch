@@ -48,10 +48,6 @@ LiDARch automates a **6-step workflow** using industry-standard tools:
 - **Dependency Assistant** - Automatic check and direct links to download QGIS/LAStools
 - **Visualization Selection** - Choose which products to generate (Hillshade, SLRM, SVF, LD)
 - **Custom Parameters** - Fine-tune RVT settings directly from the GUI
-- Modern dark-themed GUI with **Scrollable Interface** for small screens
-- Real-time progress tracking with **Dynamic Estimated Time Remaining**
-- Hidden background execution of LAStools (no popups)
-- Standalone Windows executable (no Python required)
 
 ---
 
@@ -123,7 +119,6 @@ Proyecto_LiDARch_[timestamp]/
 **Institution:** MA in Archaeology and Sciences of Antiquity, USC/CSIC/UDC/UVIGO  
 **Course:** Geospatial Technologies in Archaeology  
 **Author:** M. Carrero Pazos (miguel.carrero@usc.es)  
-**Purpose:** Demonstrate automation of archaeological LiDAR workflows
 
 **Institutional Affiliations:**
 - GEPN-AAT (Grupo de Estudios para la Prehistoria del Noroeste - Arqueología, Antigüedad y Territorio)
@@ -205,7 +200,8 @@ GitHub: https://github.com/MCarreroPazos/LiDARch
 
 ---
 
-**Disclaimer:** This software is provided "as is" for educational purposes. Always validate results for actual archaeological work.
+**Disclaimer:** This software is provided "as is" for educational purposes. LLMs have been used to create and curate this scripting tool.
+
 
 
 
