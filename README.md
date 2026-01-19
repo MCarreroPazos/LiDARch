@@ -118,7 +118,7 @@ Proyecto_LiDARch_[timestamp]/
 **Project Type:** Educational coursework project  
 **Institution:** MA in Archaeology and Sciences of Antiquity, USC/CSIC/UDC/UVIGO  
 **Course:** Geospatial Technologies in Archaeology  
-**Author:** M. Carrero Pazos (miguel.carrero@usc.es)  
+**Author:** M. Carrero-Pazos (miguel.carrero@usc.es)  
 
 **Institutional Affiliations:**
 - GEPN-AAT (Grupo de Estudios para la Prehistoria del Noroeste - Arqueología, Antigüedad y Territorio)
@@ -160,7 +160,7 @@ Contributions are welcome! This is an open educational project.
 
 ## Contact
 
-**Author:** M. Carrero Pazos  
+**Author:** M. Carrero-Pazos  
 **Email:** miguel.carrero@usc.es  
 **Institution:** USC/CISPAC
 
@@ -201,6 +201,7 @@ GitHub: https://github.com/MCarreroPazos/LiDARch
 ---
 
 **Disclaimer:** This software is provided "as is" for educational purposes. LLMs have been used to create and curate this scripting tool.
+
 
 
 
