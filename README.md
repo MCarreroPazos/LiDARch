@@ -9,7 +9,7 @@
 
 > **Note:** This is an academic project that orchestrates third-party tools (QGIS, SAGA GIS, LAStools, RVT). It is provided for educational purposes only.
 
-> A **Portable version** of LiDARch can be downloaded from here (recomended): https://zenodo.org/records/18798157
+**A Portable version** of LiDARch can be downloaded from here (recomended)**: https://zenodo.org/records/18798157
 
 **Process LiDAR Data Automatically for Archaeological Purposes**  
 *MA in Archaeology and Sciences of Antiquity (USC/CSIC/UDC/UVIGO). Geospatial Technologies in Archaeology course*
@@ -204,6 +204,7 @@ Zenodo: https://doi.org/10.5281/zenodo.18302088
 ---
 
 **Disclaimer:** This software is provided "as is" for educational purposes. LLMs have been used to create and curate this scripting tool.
+
 
 
 
