@@ -5,7 +5,7 @@
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
 ![Purpose](https://img.shields.io/badge/purpose-Educational-orange.svg)
 
-**LiDARch** is an educational tool that automates LiDAR point cloud processing workflows for archaeological applications. This project was developed as part of academic coursework to demonstrate the integration of existing geospatial tools into a streamlined processing pipeline. To run the tool just dowload LIDARch folder, unzip it in your Desktop and click in LiDARch.exe.This will prompt the program. Ensure QGIS and LASTools are installed in your PC.
+**LiDARch** is an educational tool that automates LiDAR point cloud processing workflows for archaeological applications. This project was developed as part of academic coursework to demonstrate the integration of existing geospatial tools into a streamlined processing pipeline. To run the tool just download LIDARch folder, unzip it in your Desktop and click in LiDARch.exe.This will prompt the program. Ensure QGIS with RVT, SAGA GIS and LASTools are installed in your PC.
 
 > **Note:** This is an academic project that orchestrates third-party tools (QGIS, SAGA GIS, LAStools, RVT). It is provided for educational purposes only.
 
